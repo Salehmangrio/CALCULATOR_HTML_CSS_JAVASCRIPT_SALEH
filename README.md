@@ -89,10 +89,6 @@ Feel free to fork this repository, clone it to your local machine, and make impr
 4. Push to your forked repository.
 5. Create a pull request.
 
-## License
-
-This project is open-source and available under the [License](LICENSE).
-
 ## Acknowledgements
 
 - The idea for this calculator was inspired by simple web-based tools and was created for learning purposes.
