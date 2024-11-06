@@ -91,7 +91,7 @@ Feel free to fork this repository, clone it to your local machine, and make impr
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [License](LICENSE).
 
 ## Acknowledgements
 
