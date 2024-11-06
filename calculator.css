@@ -1,0 +1,53 @@
+h1 {
+    text-shadow: 2px 1px 1px red;
+}
+
+.body {
+    width: 400px;
+    max-width: 90%;
+    border: 2px solid red;
+    padding: 10px;
+    border-radius: 8px;
+    margin: auto;
+}
+
+.calculator {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-content: space-between;
+}
+
+.inputPage {
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.btn {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    padding: 10px 10px;
+    background-color: black;
+    color: white;
+    margin: 10px;
+    box-shadow: 2px 2px 2px blue;
+    border: 1px solid white;
+
+}
+
+.act {
+    background-color: yellow;
+    color: black;
+    font-weight: 700;
+}
+
+.btn:hover {
+    background-color: red;
+    color: white;
+}
+
+h4 {
+    text-align: center;
+    color: red;
+}
