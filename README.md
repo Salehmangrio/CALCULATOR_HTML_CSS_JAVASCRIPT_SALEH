@@ -3,10 +3,6 @@
 
 A simple and stylish web-based calculator built with HTML, CSS, and JavaScript. This calculator allows users to perform basic arithmetic operations like addition, subtraction, multiplication, division, and supports floating-point numbers. The design is user-friendly and visually appealing.
 
-<p align="center">
-  <img src="Calculator.JPG" alt="Calculator" style="border: 5px solid #000; border-radius: 15px;">
-</p>
-
 ## Features
 
 - **Basic Arithmetic Operations**: Addition, subtraction, multiplication, and division.
@@ -37,12 +33,12 @@ To get started with this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/calculator-app.git
+   git clone https://github.com/Salehmangrio/CALCULATOR_HTML_CSS_JAVASCRIPT_SALEH.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd calculator-app
+   cd CALCULATOR_HTML_CSS_JAVASCRIPT_SALEH
    ```
 
 3. **Open the `index.html` file in your web browser.**
@@ -102,7 +98,19 @@ This project is open-source and available under the [MIT License](LICENSE).
 - The idea for this calculator was inspired by simple web-based tools and was created for learning purposes.
 - A big thanks to all the contributors who make open-source projects amazing!
 
+## CALCULATOR VIEW
+<br>
+<br>
+<br>
+<p align="center">
+  <img src="Calculator.JPG" alt="Calculator" style="border: 5px solid #000; border-radius: 15px;">
+</p>
+
+
 ## Contact
 
 Created by **Saleh Mangrio**  
-You can reach me via email at [salehmangrio.developer@gmail.com](mailto:salehmangrio.developer@gmail.com) or visit my GitHub profile at [github.com/salehmangrio](https://github.com/salehmangrio).
+You can reach me via: 
+- EMAIL: [salehmangrio114@gmail.com](mailto:salehmangrio114@gmail.com) 
+- GITHUB: [github.com/salehmangrio](https://github.com/salehmangrio)
+- LINKEDIN: [linkedin.com/in/salehmuhammad114](www.linkedin.com/in/salehmuhammad114)
